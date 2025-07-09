@@ -17,6 +17,9 @@ Retorne com as seções:
 2. Aplicação Prática
 3. Referências Cruzadas
 
+Se quiser sugerir uma leitura adicional, inclua **apenas UM link** no formato markdown assim:
+[Texto do link](https://exemplo.com)
+
 Responda em no máximo 500 tokens.
 ''';
 
