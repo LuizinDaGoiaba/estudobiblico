@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536695983303",
+    "project_id": "biblia-estudo-luis",
+    "storage_bucket": "biblia-estudo-luis.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536695983303:android:e89b347802e8a4dab8c2e2",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3yHA0rb-1m8Pz7uuTG0DilXx_gGpdipo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
