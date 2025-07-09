@@ -65,7 +65,11 @@ Atenção: não envie esse arquivo para o repositório. Inclua .env no .gitignor
 
 ## Tela de estudos salvos
 
-![estudos salvos](https://github.com/user-attachments/assets/13be2bc5-96b3-4c91-a308-811fc1f65a93)
+![estudo salvo](https://github.com/user-attachments/assets/cbb850b2-7fe4-4ef1-8d4e-2fcb93a33129)
+
+## Artigo mostrado pelo WebView
+
+![webview](https://github.com/user-attachments/assets/ffa57144-f450-4f0b-9576-c6d9547813ea)
 
 ## Exemplo de geração de token para API da Bíblia
 
